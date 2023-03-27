@@ -45,7 +45,7 @@ Alternatively, the "package manager" interface of the REPL can be used:
 
 ```julia
 julia> ]
-(@v1.8) pkg> add  GalaxyMNISTDataSets
+(@v1.8) pkg> add  GalaxyMNISTDatasets
 ```
 
 ## Usage
