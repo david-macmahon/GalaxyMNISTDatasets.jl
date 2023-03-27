@@ -1,7 +1,16 @@
 name = "GalaxyMNISTDatasets"
 uuid = "139ca672-0216-40a0-b432-dd5568cb8d40"
 authors = ["David MacMahon <davidm@astro.berkeley.edu> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
+
+[deps]
+ColorTypes = "3da002f7-5984-5a60-b8a6-cbb66c0b333f"
+DataDeps = "124859b0-ceae-595e-8997-d05f6a7a8dfe"
+FixedPointNumbers = "53c48c17-4a7d-5ca2-90c5-79b7896eea93"
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+MD5 = "6ac74813-4b46-53a4-afec-0b5dc9d7885c"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+MLUtils = "f1d291b0-491e-4a28-83b9-f70985020b54"
 
 [compat]
 julia = "1.6"
