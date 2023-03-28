@@ -13,6 +13,13 @@ MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
 MLUtils = "f1d291b0-491e-4a28-83b9-f70985020b54"
 
 [compat]
+ColorTypes = "0.11.4"
+DataDeps = "0.7.10"
+FixedPointNumbers = "0.8.4"
+HDF5 = "0.16.14"
+MD5 = "0.2.1"
+MLDatasets = "0.7.9"
+MLUtils = "0.4.1"
 julia = "1.6"
 
 [extras]
